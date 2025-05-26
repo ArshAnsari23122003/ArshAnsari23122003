@@ -59,7 +59,7 @@ Feel free to explore these repositories to see my work in action!
 
 ## 🌐 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Connect with me through [Email](mailto:arsh.nitw@gmail.com), [LeetCode]([https://leetcode.com/u/arshansari23122003/]), or [LinkedIn]([https://www.instagram.com/arsh_ansari_2312/](https://www.linkedin.com/in/arsh-ansari-317b62271/)).
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Connect with me through [Email](mailto:arsh.nitw@gmail.com), [LeetCode](https://leetcode.com/u/arshansari23122003/), or [LinkedIn](https://www.linkedin.com/in/arsh-ansari-317b62271/).
 
 ---
 
