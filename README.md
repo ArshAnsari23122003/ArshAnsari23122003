@@ -7,6 +7,9 @@
   <a href="https://leetcode.com/u/arshansari23122003/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-ArshAnsari-orange?style=flat-square&logo=leetcode" alt="LeetCode" />
   </a>
+  <a href="https://www.linkedin.com/in/arsh-ansari-317b62271/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-arsh--ansari--317b62271-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
   <a href="https://www.instagram.com/arsh_ansari_2312/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@arsh_ansari_2312-purple?style=flat-square&logo=instagram" alt="Instagram" />
   </a>
@@ -23,10 +26,23 @@
 
 ---
 
+## 📚 Learning
+
+- React.js & Next.js  
+- Web Security Best Practices  
+- Deployment & CI/CD pipelines
+
+---
+
+## 💼 Looking For Opportunities
+
+- Open to software development internships and freelance collaborations
+
+---
+
 ## 📈 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ArshAnsari?theme=dark)](https://leetcode.com/u/ArshAnsari/)
-
 
 ---
 
@@ -53,7 +69,31 @@ Here are some of my highlighted projects:
 - [Spotify Website Clone](https://github.com/ArshAnsari23122003/spotify-website-clone): A front-end replica of Spotify's web interface.
 - [Fullstack Chat App](https://github.com/ArshAnsari23122003/fullstack-chat-app): A real-time chat application with authentication and live user status.
 
-Feel free to explore these repositories to see my work in action!
+---
+
+## 📊 GitHub Activity
+
+![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArshAnsari23122003&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ArshAnsari23122003&theme=radical)
+
+![Arsh's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArshAnsari23122003&theme=react-dark)
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArshAnsari23122003&label=Profile%20views&color=0e75b6&style=flat" alt="ArshAnsari23122003" />
+</p>
+
+---
+
+## ✨ A Glimpse of Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 ---
 
