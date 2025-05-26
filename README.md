@@ -25,7 +25,8 @@
 
 ## 📈 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/arshansari23122003?theme=dark)](https://leetcode.com/arshansari23122003)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ArshAnsari?theme=dark)](https://leetcode.com/u/ArshAnsari/)
+
 
 ---
 
