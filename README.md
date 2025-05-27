@@ -77,7 +77,7 @@ Here are some of my highlighted projects:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ArshAnsari23122003&theme=radical)
 
-![Arsh's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArshAnsari23122003&theme=react-dark)
+![Arsh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArshAnsari23122003&theme=react-dark)
 
 ---
 
