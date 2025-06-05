@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/arsh-ansari-317b62271/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-arsh--ansari--317b62271-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/arsh_ansari_2312/" target="_blank">
+  <a href="https://www.instagram.com/?__pwa=1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@arsh_ansari_2312-purple?style=flat-square&logo=instagram" alt="Instagram" />
   </a>
 </p>
