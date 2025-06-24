@@ -13,9 +13,9 @@
   <a href="https://www.instagram.com/?__pwa=1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@arsh_ansari_2312-purple?style=flat-square&logo=instagram" alt="Instagram" />
   </a>
-   <a href="[https://www.instagram.com/?__pwa=1](https://threed-portfolio-main-r55n.onrender.com/)" target="_blank">
-<!--     <img src="https://img.shields.io/badge/Instagram-@arsh_ansari_2312-purple?style=flat-square&logo=instagram" alt="Portfolio" /> -->
-  </a>
+   <a href="https://threed-portfolio-main-r55n.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-threed--portfolio--main--r55n--onrender.com-brightgreen?style=flat-square&logo=vercel" alt="Portfolio" />
+</a>
 </p>
 
 ---
@@ -67,10 +67,17 @@
 
 Here are some of my highlighted projects:
 
-- [Fullstack Web E-commerce](https://github.com/ArshAnsari23122003/fullstack-web-ecommerce): A comprehensive e-commerce platform built with the MERN stack.
-- [GreenCart App](https://github.com/ArshAnsari23122003/greencart-app-deploy): An eco-friendly shopping application emphasizing sustainability.
-- [Spotify Website Clone](https://github.com/ArshAnsari23122003/spotify-website-clone): A front-end replica of Spotify's web interface.
-- [Fullstack Chat App](https://github.com/ArshAnsari23122003/fullstack-chat-app): A real-time chat application with authentication and live user status.
+- [**Fullstack Web E-commerce**](https://github.com/ArshAnsari23122003/fullstack-web-ecommerce): A comprehensive e-commerce platform built with the MERN stack.
+  🔗 [Live Demo](https://fullstack-web-ecommerce-frontend.vercel.app)
+
+- [**GreenCart App**](https://github.com/ArshAnsari23122003/greencart-app-deploy): An eco-friendly shopping application emphasizing sustainability.
+  🔗 [Live Demo](https://greencart-app-deploy-d2j4.vercel.app)
+
+- [**Spotify Website Clone**](https://github.com/ArshAnsari23122003/spotify-website-clone): A front-end replica of Spotify's web interface.
+  🔗 [Live Demo](https://spotify-website-clone-sage.vercel.app)
+  
+- [**Fullstack Chat App**](https://github.com/ArshAnsari23122003/fullstack-chat-app): A real-time chat application with authentication and live user status.
+  🔗 [Live Demo](https://fullstack-chat-app-o56d.onrender.com)
 
 ---
 
