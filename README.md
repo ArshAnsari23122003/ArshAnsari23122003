@@ -90,6 +90,10 @@ Here are some of my highlighted projects:
 ![Arsh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArshAnsari23122003&theme=react-dark)
 
 ---
+## 📱 Scan to Visit My 3D Portfolio
+
+[![QR Code](https://github.com/ArshAnsari23122003/ArshAnsari23122003/blob/main/portfolio-qr.png?raw=true)](https://threed-portfolio-main-r55n.onrender.com/)
+---
 
 ## 👀 Visitor Counter
 
